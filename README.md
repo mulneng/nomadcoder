@@ -2,13 +2,6 @@
 
 This is a solution to the [Vanilla JS Challenge](https://nomadcoders.co/).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [What I've done](#whati'vedone)
-
 ## Overview
 
 ### Screenshot
@@ -17,8 +10,8 @@ This is a solution to the [Vanilla JS Challenge](https://nomadcoders.co/).
 
 ### Links
 
-- Solution URL: [https://github.com/zeegu/]
-- Live Site URL: [https://zeegu.github.io/]
+- Solution URL: [https://github.com/zeegu/nomadcoder]
+- Live Site URL: [https://zeegu.github.io/nomadcoder/]
 
 ## What I've done
 
