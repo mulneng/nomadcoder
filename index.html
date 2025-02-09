@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=close"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Rowdies:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Momentum</title>
+  </head>
+  <body>
+    <main>
+      <section class="quote-container">
+        <div id="quote">
+          <span></span>
+          <span></span>
+        </div>
+      </section>
+      <section class="weather-container">
+        <div id="weather">
+          <span class="temperature"></span>
+          <hr />
+          <span class="weather"></span>
+          <span class="date-today"></span>
+          <span class="city"></span>
+        </div>
+      </section>
+      <section class="clock-container">
+        <h1 id="greeting" class="hidden"></h1>
+        <h2 id="clock">00:00</h2>
+        <form class="hidden" id="login-form">
+          <input
+            required
+            maxlength="15"
+            type="text"
+            placeholder="What is your name?"
+          />
+          <button>Log In</button>
+        </form>
+      </section>
+      <section class="todo-container">
+        <div class="todo-content-container">
+          <p class="notes">Todos</p>
+          <form id="todo-form" action="">
+            <input
+              type="text"
+              placeholder="Write a To-Do and Press Enter"
+              required
+            />
+          </form>
+          <div class="list-container">
+            <ul id="todo-list"></ul>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="js/greeting.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quote.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/weather.js"></script>
+  </body>
+</html>
