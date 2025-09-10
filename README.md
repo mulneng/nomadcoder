@@ -10,8 +10,8 @@ This is a solution to the [Vanilla JS Challenge](https://nomadcoders.co/).
 
 ### Links
 
-- Solution URL: [https://github.com/zeegu/nomadcoder]
-- Live Site URL: [https://zeegu.github.io/nomadcoder/]
+- Solution URL: [https://github.com/mulneng/nomadcoder]
+- Live Site URL: [https://mulneng.github.io/nomadcoder/]
 
 ## What I've done
 
